@@ -1,7 +1,8 @@
 # Coco-Collapse
 Do you want to test your reaction speed? Coco Collapse is the hardest and funniest doging game you will ever try...
 
-![thumbnail](https://github.com/user-attachments/assets/b3d60356-d1ec-4f3e-ac5c-10e4b0556bf1)
+![thumbnail](https://github.com/user-attachments/assets/8fb5abcd-4325-4db9-9652-c64262906f0e)
+
 
 Have you ever wondered what really goes on in space?
 
@@ -22,13 +23,16 @@ Look forward to in Coco Collapse:
   - 9 different characters 
   - an enchantingly beautiful space environment.
 
-![english_handy_vorlage_play_store1](https://github.com/user-attachments/assets/af1bc66a-b393-4c9a-8a12-20f813147b34)
-![english_handy_vorlage_play_store2](https://github.com/user-attachments/assets/84f3d536-f1b5-4b19-997e-310b44f21de5)
-![english_handy_vorlage_play_store3](https://github.com/user-attachments/assets/e7c5f849-c028-4bd5-b775-dde6038bd889)
-![english_handy_vorlage_play_store4](https://github.com/user-attachments/assets/4dcdf59c-6994-4f09-a1bf-b060676c973e)
-![english_handy_vorlage_play_store5](https://github.com/user-attachments/assets/5e724cb4-4fc9-4c29-b544-4ebf1c6aef4e)
-![english_handy_vorlage_play_store6](https://github.com/user-attachments/assets/c42741ac-8f78-4573-bfd2-6f47f0a7412f)
+
+![english_handy_vorlage_play_store1](https://github.com/user-attachments/assets/43c150d1-f57c-4b58-973a-be5da62fd7b9)
+![english_handy_vorlage_play_store2](https://github.com/user-attachments/assets/05fe4c24-49d8-4a07-a548-8bac24b414d0)
+![english_handy_vorlage_play_store3](https://github.com/user-attachments/assets/77c7505a-e482-4f61-845d-6b5ed58f71f7)
+![english_handy_vorlage_play_store4](https://github.com/user-attachments/assets/0dbe7c24-6432-420f-92e0-56d2980d0b5c)
+![english_handy_vorlage_play_store5](https://github.com/user-attachments/assets/76332906-652e-4700-b750-c701fbc512e8)
+![english_handy_vorlage_play_store6](https://github.com/user-attachments/assets/b466dd69-73fc-4168-80b3-160d28a76b3d)
+
 
 © masimalab 
+
 https://masimalab.dev/privacy
 
