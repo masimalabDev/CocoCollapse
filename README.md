@@ -29,4 +29,6 @@ Look forward to in Coco Collapse:
 ![english_handy_vorlage_play_store5](https://github.com/user-attachments/assets/5e724cb4-4fc9-4c29-b544-4ebf1c6aef4e)
 ![english_handy_vorlage_play_store6](https://github.com/user-attachments/assets/c42741ac-8f78-4573-bfd2-6f47f0a7412f)
 
+© masimalab 
+https://masimalab.dev/privacy
 
